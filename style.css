@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 222, 151);
+}
+.head{
+    text-align: center ;
+
+}
+.heading,
+.description{
+
+    background-color: aqua;
+    padding: 25px;
+
+}
+.image{
+    display: flex;
+    align-items: center;
+}
+#btn{
+    text-align: center ;
+}
