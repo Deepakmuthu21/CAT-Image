@@ -1,1 +1,1 @@
-This Repository Show How to display random cat image in public API Using promise
+This Repository Show How to display random cat image in public API Using FETCH
